@@ -1,0 +1,6 @@
+"bmrp"
+{
+	"base"		"impulse"
+	"title"		"impulse: Black Mesa Roleplay"
+	"author"	"nick"
+}
